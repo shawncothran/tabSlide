@@ -27,7 +27,7 @@ $('a[href*="#"]:not([href="#"])').click(function() {
 });
 
 
-$.ajax('../../friends.json').done(function(friendList){
+$.ajax('friends.json').done(function(friendList){
   var data = friendList.friends
     , stepped = _.chain(data)
                 .groupBy("stage")
