@@ -1,0 +1,25 @@
+{
+    "friends": [
+        { "firstName" : "Paul", "lastName" : "Taylor", "stage": 2 },
+        { "firstName" : "Sharon", "lastName" : "Thomas", "stage": 3 },
+        { "firstName" : "Thomas", "lastName" : "Harris", "stage": 3 },
+        { "firstName" : "Deborah", "lastName" : "Lee", "stage": 4 },
+        { "firstName" : "Mark", "lastName" : "Young", "stage": 4 },
+        { "firstName" : "Shirley", "lastName" : "Perez", "stage": 4 },
+        { "firstName" : "Joseph", "lastName" : "Levee", "stage": 5 },
+        { "firstName" : "Mary", "lastName" : "White", "stage": 5 },
+        { "firstName" : "Matthew", "lastName" : "Garcia", "stage": 5 },
+        { "firstName" : "Patricia", "lastName" : "Allen", "stage": 5 },
+        { "firstName" : "Larry", "lastName" : "Robinson", "stage": 6 },
+        { "firstName" : "Kimberly", "lastName" : "Lopez", "stage": 6 },
+        { "firstName" : "Jose", "lastName" : "Martinez", "stage": 6 },
+        { "firstName" : "Deborah", "lastName" : "Walker", "stage": 6 },
+        { "firstName" : "Joseph", "lastName" : "Long", "stage": 6 },
+        { "firstName" : "Dorothy", "lastName" : "Moore", "stage": 7 },
+        { "firstName" : "Jose", "lastName" : "Jackson", "stage": 7 },
+        { "firstName" : "Karen", "lastName" : "Davis", "stage": 7 },
+        { "firstName" : "Cam", "lastName" : "Frank", "stage": 7 },
+        { "firstName" : "Amy", "lastName" : "Gonzalez", "stage": 7 },
+        { "firstName" : "Richard", "lastName" : "Martin", "stage": 7 }
+    ]
+}
